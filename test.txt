@@ -1,1 +1,7 @@
 Let's test when we do various changes to a file, how different branches would be merged when we create a pull request
+
+
+in this first test one, 
+we are editing below the file, just to see what happens when one branch is merged before the other one has been merged.
+
+Are the changes overwritten or does it add the new functionality

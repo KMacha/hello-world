@@ -1,6 +1,14 @@
 Let's test when we do various changes to a file, how different branches would be merged when we create a pull request
 
 
+Now this is in the second branch. 
+Or rather the branch that will submit a pull request last after the firsttest branch has already submitted it's pull request and 
+after the first branch has already been merged.
+
+Just as a btw, can you tell the difference between l1I. hahahaha. in this one it is easily identifiable
+
+
+
 in this first test one, 
 we are editing below the file, just to see what happens when one branch is merged before the other one has been merged.
 

@@ -1,0 +1,1 @@
+Let's test when we do various changes to a file, how different branches would be merged when we create a pull request
